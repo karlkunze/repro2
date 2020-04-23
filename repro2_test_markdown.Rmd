@@ -2,7 +2,8 @@
 title: "repro2_test"
 author: "Karl Kunze"
 date: "4/23/2020"
-output: html_document
+output: github_document
+
 ---
 
 ```{r setup, include=FALSE}
